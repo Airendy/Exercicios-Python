@@ -2,6 +2,8 @@
 
 numero1 = input("Número: ")
 print(numero1)
+print(type(numero1))
 
 numero2 = int(numero1)
 print(numero2)
+print(type(numero2))
