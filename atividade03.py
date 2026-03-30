@@ -3,4 +3,4 @@
 nome = input("Qual o seu nome? ")
 cidade = input("Que cidade você mora?")
 
-print(nome, "mora em", cidade)
+print(nome, "mora em", cidade + ".")
